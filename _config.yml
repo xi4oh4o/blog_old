@@ -19,7 +19,7 @@ locale: en-US
 title: "My Awesome Site"
 description: "It really is the best."
 baseurl: "/blog"
-url: "https://xhs.me/blog"
+url: "https://xhs.me"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
