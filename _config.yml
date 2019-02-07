@@ -16,13 +16,13 @@
 # theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "xi4oh4o"
+description: "a programmer."
 baseurl: "/blog"
 url: "https://xhs.me"
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: "/images/logo.png"
 date_format: "%B %-d, %Y"
-read_time: # reading time estimates, e.g. true
+read_time: true
 words_per_minute: # 200
 mathjax: # MathJax equations, e.g. true
 google_fonts:
@@ -34,7 +34,7 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: # site's Twitter username, e.g. "mmistakes"
+  username: "XHs"
 
 # Liquid
 liquid:
@@ -87,10 +87,10 @@ defaults:
 
 # Site Author
 author:
-  name:
-  picture:
-  email:
-  twitter:
+  name: "xh!"
+  picture: "https://xhs.me/images/avatar_me@2x.png"
+  email: "xi4oh4o@gmail.com"
+  twitter: "XHs"
   links:
     - title:
       url:
@@ -98,6 +98,15 @@ author:
 
 # Footer Links
 footer_links:
+  - title: Twitter
+    url: https://twitter.com/XHs
+    icon: fab fa-twitter-square
+  - title: Instgram
+    url: https://www.instagram.com/xi4oh4o/
+    icon: fab fa-instagram
+  - title: GitHub
+    url: https://github.com/xi4oh4o
+    icon: fab fa-github-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
